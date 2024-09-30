@@ -1,2 +1,3 @@
 # SCROLL-CHESS
-Scroll Chess is an innovative twist on the classic game of chess, merging traditional gameplay with modern, dynamic mechanics. Unlike conventional chess, which is played on a static board, Scroll Chess introduces a unique scrolling interface that adds layers of strategy and engagement.
+Scroll Chess transforms every match into an opportunity for players to earn rewards and build digital assets.
+Scroll Chess introduces a play-to-earn model where victories and achievements can yield tangible rewards. Players can earn tokens, which can be used to purchase unique in-game assets, such as customizable pieces and exclusive skins, all represented as NFTs. This system not only incentivizes skillful play but also fosters a vibrant community of players and collectors.
